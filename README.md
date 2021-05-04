@@ -1,6 +1,7 @@
 # SQLclean
 ![immagine](https://user-images.githubusercontent.com/56889513/117015955-82b69900-acf2-11eb-98d7-f9949942fc3d.png)
 ![immagine](https://user-images.githubusercontent.com/56889513/117016011-8f3af180-acf2-11eb-957f-63ecfafd6663.png)
+
 This SQL code was written to check the db and remove duplicate file copies or files but with different dates
 Real world data is almost always messy. As a data scientist or a data analyst or even as a developer, if you need to discover facts about data, it is vital to ensure that data is tidy enough for doing that. There is actually a well-rounded definition of tidy data, and you can check out this wiki page to find more resources about it.
 
