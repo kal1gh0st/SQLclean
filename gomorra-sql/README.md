@@ -131,10 +131,5 @@ Improvements are always appreciated! If you want to contribute to this project t
 ## Project status
 This project is considered completed and won't be developed further.
 
-## Contacts
-You can contact me using my account e-mail or opening an issue on this repo. I'll try to reply ASAP.
-
-## License
-The project is released under the MIT license, which lets you reuse the code for any purpose you want (even commercial) with the only requirement being copying this project license on your project.
 
 <sub>Copyright (c) 2021 Donato Rimenti</sub>
