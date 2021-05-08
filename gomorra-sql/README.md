@@ -132,4 +132,3 @@ Improvements are always appreciated! If you want to contribute to this project t
 This project is considered completed and won't be developed further.
 
 
-<sub>Copyright (c) 2021 Donato Rimenti</sub>
